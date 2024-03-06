@@ -1,0 +1,235 @@
+Index: .idea/workspace.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+><?xml version=\"1.0\" encoding=\"UTF-8\"?>\r\n<project version=\"4\">\r\n  <component name=\"AutoImportSettings\">\r\n    <option name=\"autoReloadType\" value=\"SELECTIVE\" />\r\n  </component>\r\n  <component name=\"ChangeListManager\">\r\n    <list default=\"true\" id=\"ec454ede-5171-48d3-8e10-e5bfdf3bbfcc\" name=\"Changes\" comment=\"\">\r\n      <change afterPath=\"$PROJECT_DIR$/src/practiceprograms/Narrowing_Casting.java\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/src/practiceprograms/Widening_Casting.java\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/.idea/workspace.xml\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/.idea/workspace.xml\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/src/practiceprograms/Hellopro.java\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/src/practiceprograms/Hellopro.java\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/src/practiceprograms/Print.java\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/src/practiceprograms/Print.java\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/src/practiceprograms/Printnumbers.java\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/src/practiceprograms/Printnumbers.java\" afterDir=\"false\" />\r\n    </list>\r\n    <option name=\"SHOW_DIALOG\" value=\"false\" />\r\n    <option name=\"HIGHLIGHT_CONFLICTS\" value=\"true\" />\r\n    <option name=\"HIGHLIGHT_NON_ACTIVE_CHANGELIST\" value=\"false\" />\r\n    <option name=\"LAST_RESOLUTION\" value=\"IGNORE\" />\r\n  </component>\r\n  <component name=\"FileTemplateManagerImpl\">\r\n    <option name=\"RECENT_TEMPLATES\">\r\n      <list>\r\n        <option value=\"Class\" />\r\n      </list>\r\n    </option>\r\n  </component>\r\n  <component name=\"Git.Settings\">\r\n    <option name=\"RECENT_GIT_ROOT_PATH\" value=\"$PROJECT_DIR$\" />\r\n  </component>\r\n  <component name=\"ProblemsViewState\">\r\n    <option name=\"selectedTabId\" value=\"CurrentFile\" />\r\n  </component>\r\n  <component name=\"ProjectColorInfo\"><![CDATA[{\r\n  \"associatedIndex\": 0\r\n}]]></component>\r\n  <component name=\"ProjectId\" id=\"2dJjLA5MFlbhO0n9ZrE8Ww2h5A6\" />\r\n  <component name=\"ProjectLevelVcsManager\" settingsEditedManually=\"true\">\r\n    <ConfirmationsSetting value=\"2\" id=\"Add\" />\r\n  </component>\r\n  <component name=\"ProjectViewState\">\r\n    <option name=\"hideEmptyMiddlePackages\" value=\"true\" />\r\n    <option name=\"showLibraryContents\" value=\"true\" />\r\n  </component>\r\n  <component name=\"PropertiesComponent\"><![CDATA[{\r\n  \"keyToString\": {\r\n    \"Application.Hellopro.executor\": \"Run\",\r\n    \"Application.Narrowing_Casting.executor\": \"Run\",\r\n    \"Application.Print.executor\": \"Run\",\r\n    \"Application.Printnumbers.executor\": \"Run\",\r\n    \"Application.Widening_Casting.executor\": \"Run\",\r\n    \"RunOnceActivity.OpenProjectViewOnStart\": \"true\",\r\n    \"RunOnceActivity.ShowReadmeOnStart\": \"true\",\r\n    \"SHARE_PROJECT_CONFIGURATION_FILES\": \"true\",\r\n    \"git-widget-placeholder\": \"master\",\r\n    \"kotlin-language-version-configured\": \"true\",\r\n    \"project.structure.last.edited\": \"SDKs\",\r\n    \"project.structure.proportion\": \"0.0\",\r\n    \"project.structure.side.proportion\": \"0.33333334\"\r\n  }\r\n}]]></component>\r\n  <component name=\"RecentsManager\">\r\n    <key name=\"CopyClassDialog.RECENTS_KEY\">\r\n      <recent name=\"practiceprograms\" />\r\n    </key>\r\n  </component>\r\n  <component name=\"RunManager\" selected=\"Application.Narrowing_Casting\">\r\n    <configuration name=\"Hellopro\" type=\"Application\" factoryName=\"Application\" temporary=\"true\" nameIsGenerated=\"true\">\r\n      <option name=\"MAIN_CLASS_NAME\" value=\"practiceprograms.Hellopro\" />\r\n      <module name=\"JavaPrograms\" />\r\n      <extension name=\"coverage\">\r\n        <pattern>\r\n          <option name=\"PATTERN\" value=\"practiceprograms.*\" />\r\n          <option name=\"ENABLED\" value=\"true\" />\r\n        </pattern>\r\n      </extension>\r\n      <method v=\"2\">\r\n        <option name=\"Make\" enabled=\"true\" />\r\n      </method>\r\n    </configuration>\r\n    <configuration name=\"Narrowing_Casting\" type=\"Application\" factoryName=\"Application\" temporary=\"true\" nameIsGenerated=\"true\">\r\n      <option name=\"MAIN_CLASS_NAME\" value=\"practiceprograms.Narrowing_Casting\" />\r\n      <module name=\"JavaPrograms\" />\r\n      <extension name=\"coverage\">\r\n        <pattern>\r\n          <option name=\"PATTERN\" value=\"practiceprograms.*\" />\r\n          <option name=\"ENABLED\" value=\"true\" />\r\n        </pattern>\r\n      </extension>\r\n      <method v=\"2\">\r\n        <option name=\"Make\" enabled=\"true\" />\r\n      </method>\r\n    </configuration>\r\n    <configuration name=\"Print\" type=\"Application\" factoryName=\"Application\" temporary=\"true\" nameIsGenerated=\"true\">\r\n      <option name=\"MAIN_CLASS_NAME\" value=\"practiceprograms.Print\" />\r\n      <module name=\"JavaPrograms\" />\r\n      <extension name=\"coverage\">\r\n        <pattern>\r\n          <option name=\"PATTERN\" value=\"practiceprograms.*\" />\r\n          <option name=\"ENABLED\" value=\"true\" />\r\n        </pattern>\r\n      </extension>\r\n      <method v=\"2\">\r\n        <option name=\"Make\" enabled=\"true\" />\r\n      </method>\r\n    </configuration>\r\n    <configuration name=\"Printnumbers\" type=\"Application\" factoryName=\"Application\" temporary=\"true\" nameIsGenerated=\"true\">\r\n      <option name=\"MAIN_CLASS_NAME\" value=\"practiceprograms.Printnumbers\" />\r\n      <module name=\"JavaPrograms\" />\r\n      <extension name=\"coverage\">\r\n        <pattern>\r\n          <option name=\"PATTERN\" value=\"practiceprograms.*\" />\r\n          <option name=\"ENABLED\" value=\"true\" />\r\n        </pattern>\r\n      </extension>\r\n      <method v=\"2\">\r\n        <option name=\"Make\" enabled=\"true\" />\r\n      </method>\r\n    </configuration>\r\n    <configuration name=\"Widening_Casting\" type=\"Application\" factoryName=\"Application\" temporary=\"true\" nameIsGenerated=\"true\">\r\n      <option name=\"MAIN_CLASS_NAME\" value=\"practiceprograms.Widening_Casting\" />\r\n      <module name=\"JavaPrograms\" />\r\n      <extension name=\"coverage\">\r\n        <pattern>\r\n          <option name=\"PATTERN\" value=\"practiceprograms.*\" />\r\n          <option name=\"ENABLED\" value=\"true\" />\r\n        </pattern>\r\n      </extension>\r\n      <method v=\"2\">\r\n        <option name=\"Make\" enabled=\"true\" />\r\n      </method>\r\n    </configuration>\r\n    <recent_temporary>\r\n      <list>\r\n        <item itemvalue=\"Application.Narrowing_Casting\" />\r\n        <item itemvalue=\"Application.Widening_Casting\" />\r\n        <item itemvalue=\"Application.Printnumbers\" />\r\n        <item itemvalue=\"Application.Print\" />\r\n        <item itemvalue=\"Application.Hellopro\" />\r\n      </list>\r\n    </recent_temporary>\r\n  </component>\r\n  <component name=\"SpellCheckerSettings\" RuntimeDictionaries=\"0\" Folders=\"0\" CustomDictionaries=\"0\" DefaultDictionary=\"application-level\" UseSingleDictionary=\"true\" transferred=\"true\" />\r\n  <component name=\"TaskManager\">\r\n    <task active=\"true\" id=\"Default\" summary=\"Default task\">\r\n      <changelist id=\"ec454ede-5171-48d3-8e10-e5bfdf3bbfcc\" name=\"Changes\" comment=\"\" />\r\n      <created>1709733018842</created>\r\n      <option name=\"number\" value=\"Default\" />\r\n      <option name=\"presentableId\" value=\"Default\" />\r\n      <updated>1709733018842</updated>\r\n    </task>\r\n    <servers />\r\n  </component>\r\n</project>
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/workspace.xml b/.idea/workspace.xml
+--- a/.idea/workspace.xml	(revision fa545adbe6502bd1714b72318fcc03ef33411543)
++++ b/.idea/workspace.xml	(date 1709786547374)
+@@ -4,18 +4,22 @@
+     <option name="autoReloadType" value="SELECTIVE" />
+   </component>
+   <component name="ChangeListManager">
+-    <list default="true" id="ec454ede-5171-48d3-8e10-e5bfdf3bbfcc" name="Changes" comment="">
+-      <change afterPath="$PROJECT_DIR$/src/practiceprograms/Narrowing_Casting.java" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/src/practiceprograms/Widening_Casting.java" afterDir="false" />
++    <list default="true" id="ec454ede-5171-48d3-8e10-e5bfdf3bbfcc" name="Changes" comment="Initial commit">
++      <change afterPath="$PROJECT_DIR$/src/practiceprograms/StringLength.java" afterDir="false" />
++      <change afterPath="$PROJECT_DIR$/src/practiceprograms/Stringindexlocate.java" afterDir="false" />
++      <change afterPath="$PROJECT_DIR$/src/practiceprograms/Stringuppercase_lowercase.java" afterDir="false" />
+       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/src/practiceprograms/Hellopro.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/practiceprograms/Hellopro.java" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/src/practiceprograms/Print.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/practiceprograms/Print.java" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/src/practiceprograms/Printnumbers.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/practiceprograms/Printnumbers.java" afterDir="false" />
+     </list>
+     <option name="SHOW_DIALOG" value="false" />
+     <option name="HIGHLIGHT_CONFLICTS" value="true" />
+     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+     <option name="LAST_RESOLUTION" value="IGNORE" />
++  </component>
++  <component name="ChangesViewManager">
++    <option name="groupingKeys">
++      <option value="directory" />
++      <option value="module" />
++    </option>
+   </component>
+   <component name="FileTemplateManagerImpl">
+     <option name="RECENT_TEMPLATES">
+@@ -25,14 +29,21 @@
+     </option>
+   </component>
+   <component name="Git.Settings">
++    <option name="PUSH_AUTO_UPDATE" value="true" />
++    <option name="PUSH_TAGS">
++      <GitPushTagMode>
++        <option name="argument" value="--tags" />
++        <option name="title" value="All" />
++      </GitPushTagMode>
++    </option>
+     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+   </component>
+   <component name="ProblemsViewState">
+     <option name="selectedTabId" value="CurrentFile" />
+   </component>
+-  <component name="ProjectColorInfo"><![CDATA[{
+-  "associatedIndex": 0
+-}]]></component>
++  <component name="ProjectColorInfo">{
++  &quot;associatedIndex&quot;: 0
++}</component>
+   <component name="ProjectId" id="2dJjLA5MFlbhO0n9ZrE8Ww2h5A6" />
+   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+     <ConfirmationsSetting value="2" id="Add" />
+@@ -47,6 +58,9 @@
+     "Application.Narrowing_Casting.executor": "Run",
+     "Application.Print.executor": "Run",
+     "Application.Printnumbers.executor": "Run",
++    "Application.StringLength.executor": "Run",
++    "Application.Stringindexlocate.executor": "Run",
++    "Application.Stringuppercase_lowercase.executor": "Run",
+     "Application.Widening_Casting.executor": "Run",
+     "RunOnceActivity.OpenProjectViewOnStart": "true",
+     "RunOnceActivity.ShowReadmeOnStart": "true",
+@@ -63,9 +77,9 @@
+       <recent name="practiceprograms" />
+     </key>
+   </component>
+-  <component name="RunManager" selected="Application.Narrowing_Casting">
+-    <configuration name="Hellopro" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+-      <option name="MAIN_CLASS_NAME" value="practiceprograms.Hellopro" />
++  <component name="RunManager" selected="Application.Stringindexlocate">
++    <configuration name="Narrowing_Casting" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
++      <option name="MAIN_CLASS_NAME" value="practiceprograms.Narrowing_Casting" />
+       <module name="JavaPrograms" />
+       <extension name="coverage">
+         <pattern>
+@@ -77,8 +91,8 @@
+         <option name="Make" enabled="true" />
+       </method>
+     </configuration>
+-    <configuration name="Narrowing_Casting" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+-      <option name="MAIN_CLASS_NAME" value="practiceprograms.Narrowing_Casting" />
++    <configuration name="StringLength" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
++      <option name="MAIN_CLASS_NAME" value="practiceprograms.StringLength" />
+       <module name="JavaPrograms" />
+       <extension name="coverage">
+         <pattern>
+@@ -90,8 +104,8 @@
+         <option name="Make" enabled="true" />
+       </method>
+     </configuration>
+-    <configuration name="Print" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+-      <option name="MAIN_CLASS_NAME" value="practiceprograms.Print" />
++    <configuration name="Stringindexlocate" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
++      <option name="MAIN_CLASS_NAME" value="practiceprograms.Stringindexlocate" />
+       <module name="JavaPrograms" />
+       <extension name="coverage">
+         <pattern>
+@@ -103,8 +117,8 @@
+         <option name="Make" enabled="true" />
+       </method>
+     </configuration>
+-    <configuration name="Printnumbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+-      <option name="MAIN_CLASS_NAME" value="practiceprograms.Printnumbers" />
++    <configuration name="Stringuppercase_lowercase" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
++      <option name="MAIN_CLASS_NAME" value="practiceprograms.Stringuppercase_lowercase" />
+       <module name="JavaPrograms" />
+       <extension name="coverage">
+         <pattern>
+@@ -131,14 +145,21 @@
+     </configuration>
+     <recent_temporary>
+       <list>
++        <item itemvalue="Application.Stringindexlocate" />
++        <item itemvalue="Application.Stringuppercase_lowercase" />
++        <item itemvalue="Application.StringLength" />
+         <item itemvalue="Application.Narrowing_Casting" />
+         <item itemvalue="Application.Widening_Casting" />
+-        <item itemvalue="Application.Printnumbers" />
+-        <item itemvalue="Application.Print" />
+-        <item itemvalue="Application.Hellopro" />
+       </list>
+     </recent_temporary>
+   </component>
++  <component name="SharedIndexes">
++    <attachedChunks>
++      <set>
++        <option value="jdk-21.0.1-openjdk-21.0.1-249ae16d76d6-a618e4d4" />
++      </set>
++    </attachedChunks>
++  </component>
+   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+   <component name="TaskManager">
+     <task active="true" id="Default" summary="Default task">
+@@ -148,6 +169,19 @@
+       <option name="presentableId" value="Default" />
+       <updated>1709733018842</updated>
+     </task>
++    <task id="LOCAL-00001" summary="Initial commit">
++      <option name="closed" value="true" />
++      <created>1709751520543</created>
++      <option name="number" value="00001" />
++      <option name="presentableId" value="LOCAL-00001" />
++      <option name="project" value="LOCAL" />
++      <updated>1709751520543</updated>
++    </task>
++    <option name="localTasksCounter" value="2" />
+     <servers />
+   </component>
++  <component name="VcsManagerConfiguration">
++    <MESSAGE value="Initial commit" />
++    <option name="LAST_COMMIT_MESSAGE" value="Initial commit" />
++  </component>
+ </project>
+\ No newline at end of file
+Index: src/practiceprograms/Stringuppercase_lowercase.java
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/src/practiceprograms/Stringuppercase_lowercase.java b/src/practiceprograms/Stringuppercase_lowercase.java
+new file mode 100644
+--- /dev/null	(date 1709786244376)
++++ b/src/practiceprograms/Stringuppercase_lowercase.java	(date 1709786244376)
+@@ -0,0 +1,16 @@
++package practiceprograms;
++
++public class Stringuppercase_lowercase {
++
++    public static void main(String[] args) {
++
++        String name = "Rohit Abaso kamble";
++
++        // converting into the uppercase letter string
++        System.out.println("The uppercase letters of the string is :-" + name.toUpperCase());
++
++
++        // conversting string into the lowercase letters
++        System.out.println("The uppercase letters of the string is :-" + name.toLowerCase());
++    }
++}
+Index: src/practiceprograms/Stringindexlocate.java
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/src/practiceprograms/Stringindexlocate.java b/src/practiceprograms/Stringindexlocate.java
+new file mode 100644
+--- /dev/null	(date 1709786572085)
++++ b/src/practiceprograms/Stringindexlocate.java	(date 1709786572085)
+@@ -0,0 +1,11 @@
++package practiceprograms;
++
++public class Stringindexlocate {
++    public static void main(String[] args) {
++
++        String name = "yeh jawani hain diwani";
++        System.out.println("in text locate the 'diwani'" + name.indexOf("diwani"));
++
++
++    }
++}
+Index: src/practiceprograms/StringLength.java
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/src/practiceprograms/StringLength.java b/src/practiceprograms/StringLength.java
+new file mode 100644
+--- /dev/null	(date 1709785860351)
++++ b/src/practiceprograms/StringLength.java	(date 1709785860351)
+@@ -0,0 +1,12 @@
++package practiceprograms;
++
++public class StringLength {
++
++    // calculate string length
++
++    public static void main(String[] args) {
++
++        String name = "Rohit Abaso Kamble";
++        System.out.println("The text length is :- " + name.length());
++    }
++}

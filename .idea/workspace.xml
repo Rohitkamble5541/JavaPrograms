@@ -1,0 +1,387 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="ec454ede-5171-48d3-8e10-e5bfdf3bbfcc" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_3_7_2024_10_17_AM_[Changes]/shelved.patch" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_3_7_2024_10_17_AM__Changes_.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/README file.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/practiceprograms/Array/Arraywithforloop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/practiceprograms/Array/Foreachloop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/practiceprograms/Array/Multidimentional_array.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/practiceprograms/Array/arraywithindex.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/practiceprograms/ArrayList/IntegerArrayList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/practiceprograms/ArrayList/String_ArrayList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/practiceprograms/Basicpro/Mathclass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/practiceprograms/Basicpro/StringConcatenation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/practiceprograms/Basicpro/StringUppercase_Lowercase.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/practiceprograms/Basicpro/Stringindexof.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/practiceprograms/Basicpro/Stringlength.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/practiceprograms/File_Handling/CreateFile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/practiceprograms/File_Handling/DeleteFile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/practiceprograms/File_Handling/DeleteFolder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/practiceprograms/File_Handling/GetFileInfo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/practiceprograms/File_Handling/ReadFile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/practiceprograms/File_Handling/WriteToFile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/practiceprograms/HashMap/Demo001.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/practiceprograms/HashSet/Demo01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/practiceprograms/Ifelsepro/Ifelseif.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/practiceprograms/Ifelsepro/Maximumifelse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/practiceprograms/Ifelsepro/Switchstatments/Switch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/practiceprograms/Ifelsepro/Ternarypro.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/practiceprograms/JavaTryCatchException/Demo01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/practiceprograms/JavaTryCatchException/Demo02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/practiceprograms/JavaTryCatchException/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/practiceprograms/Java_Iterator/Demo001.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/practiceprograms/LinkedList/Fruits.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/practiceprograms/Loops/Breakstament.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/practiceprograms/Loops/Breakwithwhile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/practiceprograms/Loops/Continuestatment.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/practiceprograms/Loops/Continuewithdowhile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/practiceprograms/Loops/Continuewithwhile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/practiceprograms/Loops/Dowhileloop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/practiceprograms/Loops/Dowhilewithbreak.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/practiceprograms/Loops/ForLoop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/practiceprograms/Loops/ForLoop2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/practiceprograms/Loops/Foreachloop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/practiceprograms/Loops/NestedLoop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/practiceprograms/Loops/Whileloop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/practiceprograms/Methods/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/practiceprograms/Methods/Main2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/practiceprograms/Methods/Methodoverloading/MethodOverloading.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/practiceprograms/Methods/Multiple_parameters.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/practiceprograms/Methods/SumMethod.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/practiceprograms/Methods/methodwithif_else.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/practiceprograms/Oops/Abstraction/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/practiceprograms/Oops/AccessModifiers/Default_AccessModifiers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/practiceprograms/Oops/AccessModifiers/Final_Keyword.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/practiceprograms/Oops/AccessModifiers/Private_AccessModifiers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/practiceprograms/Oops/AccessModifiers/Protect_modifiers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/practiceprograms/Oops/AccessModifiers/Public_AccessModifiers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/practiceprograms/Oops/AccessModifiers/Second.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/practiceprograms/Oops/Classes_Objects_Attributes_Methods/Accessing_Attributes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/practiceprograms/Oops/Classes_Objects_Attributes_Methods/Cars.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/practiceprograms/Oops/Classes_Objects_Attributes_Methods/Cars2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/practiceprograms/Oops/Classes_Objects_Attributes_Methods/Carscalling.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/practiceprograms/Oops/Classes_Objects_Attributes_Methods/Final_dontmodifyvalue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/practiceprograms/Oops/Classes_Objects_Attributes_Methods/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/practiceprograms/Oops/Classes_Objects_Attributes_Methods/Main2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/practiceprograms/Oops/Classes_Objects_Attributes_Methods/Modify_Attribute_values.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/practiceprograms/Oops/Classes_Objects_Attributes_Methods/MultipleAttributes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/practiceprograms/Oops/Classes_Objects_Attributes_Methods/MultipleObjects.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/practiceprograms/Oops/Classes_Objects_Attributes_Methods/Overridethe_values.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/practiceprograms/Oops/Classes_Objects_Attributes_Methods/Second.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/practiceprograms/Oops/Classes_Objects_Attributes_Methods/StaticvsPublic.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/practiceprograms/Oops/Consturctors/Consturctorwithinitialvalues.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/practiceprograms/Oops/Consturctors/paracons.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/practiceprograms/Oops/Consturctors/paracons1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/practiceprograms/Oops/Encapsulation/Login.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/practiceprograms/Oops/Encapsulation/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/practiceprograms/Oops/Encapsulation/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/practiceprograms/Oops/Encapsulation/Personrunner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/practiceprograms/Oops/Enum/EnumClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/practiceprograms/Oops/Enum/EnumWithswitch/Enumwithswitch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/practiceprograms/Oops/Enum/Enumwithforeachloop/Level5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/practiceprograms/Oops/Enum/Level.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/practiceprograms/Oops/Inheritance/Employees.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/practiceprograms/Oops/Inheritance/Finalwithinheritance.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/practiceprograms/Oops/Inheritance/Parent.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/practiceprograms/Oops/Inheritance/Vehicle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/practiceprograms/Oops/InnerClass/InnerClass/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/practiceprograms/Oops/InnerClass/Innerclas2OuterClass/Main5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/practiceprograms/Oops/InnerClass/PrivateInnerClass/Main2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/practiceprograms/Oops/InnerClass/StaticInnerClass/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/practiceprograms/Oops/Interface/MultipleInterface/Interface1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/practiceprograms/Oops/Interface/Regular_Interface/Runnable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/practiceprograms/Oops/JavaDate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/practiceprograms/Oops/JavaInput/Takeinput.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/practiceprograms/Oops/Javapkgs_API/MyClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/practiceprograms/Oops/Polymorphism/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/practiceprograms/Thread/Main3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/practiceprograms/WrapperClass/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/practiceprograms/Hellopro.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/practiceprograms/Basicpro/Hellopro.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/practiceprograms/Narrowing_Casting.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/practiceprograms/Basicpro/Narrowing_Casting.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/practiceprograms/Print.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/practiceprograms/Basicpro/Print.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/practiceprograms/Printnumbers.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/practiceprograms/Basicpro/Printnumbers.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/practiceprograms/Widening_Casting.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/practiceprograms/Basicpro/Widening_Casting.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Enum" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0
+}</component>
+  <component name="ProjectId" id="2dJjLA5MFlbhO0n9ZrE8Ww2h5A6" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "Application.AccessModifiers.executor": "Run",
+    "Application.Accessing_Attributes.executor": "Run",
+    "Application.Arraywithforloop.executor": "Run",
+    "Application.Breakstament.executor": "Run",
+    "Application.Breakwithwhile.executor": "Run",
+    "Application.Cars (1).executor": "Run",
+    "Application.Cars.executor": "Run",
+    "Application.Carscalling.executor": "Run",
+    "Application.Consturctorwithinitialvalues.executor": "Run",
+    "Application.Continuestatment.executor": "Run",
+    "Application.Continuewithdowhile.executor": "Run",
+    "Application.Continuewithwhile.executor": "Run",
+    "Application.CreateFile.executor": "Run",
+    "Application.DeleteFile.executor": "Run",
+    "Application.DeleteFolder.executor": "Run",
+    "Application.Demo001.executor": "Run",
+    "Application.Demo01.executor": "Run",
+    "Application.Demo02.executor": "Run",
+    "Application.Dowhileloop.executor": "Run",
+    "Application.Dowhilewithbreak.executor": "Run",
+    "Application.Empinfo.executor": "Run",
+    "Application.EnumClass.executor": "Run",
+    "Application.Final_Keyword.executor": "Run",
+    "Application.Final_dontmodifyvalue.executor": "Run",
+    "Application.ForLoop.executor": "Run",
+    "Application.ForLoop2.executor": "Run",
+    "Application.Foreachloop.executor": "Run",
+    "Application.Fruits.executor": "Run",
+    "Application.GetFileInfo.executor": "Run",
+    "Application.Hellopro.executor": "Run",
+    "Application.Ifelseif.executor": "Run",
+    "Application.IntegerArrayList.executor": "Run",
+    "Application.JavaDate.executor": "Run",
+    "Application.Main (1).executor": "Run",
+    "Application.Main.executor": "Run",
+    "Application.Main2 (1).executor": "Run",
+    "Application.Main2.executor": "Run",
+    "Application.Main5.executor": "Run",
+    "Application.Mathclass.executor": "Run",
+    "Application.Maximumifelse.executor": "Run",
+    "Application.MethodOverloading.executor": "Run",
+    "Application.Method_parameters.executor": "Run",
+    "Application.Modify_Attribute_values.executor": "Run",
+    "Application.Multidimentional_array.executor": "Run",
+    "Application.MultipleAttributes.executor": "Run",
+    "Application.MultipleObjects.executor": "Run",
+    "Application.Multiple_parameters.executor": "Run",
+    "Application.MyClass.executor": "Run",
+    "Application.Narrowing_Casting.executor": "Run",
+    "Application.NestedLoop.executor": "Debug",
+    "Application.OuterClass (1).executor": "Run",
+    "Application.OuterClass (2).executor": "Run",
+    "Application.OuterClass.executor": "Run",
+    "Application.OuterClass2 (1).executor": "Run",
+    "Application.OuterClass2.executor": "Run",
+    "Application.Personrunner.executor": "Run",
+    "Application.Print.executor": "Run",
+    "Application.Printnumbers.executor": "Run",
+    "Application.Private_AccessModifiers.executor": "Run",
+    "Application.ReadFile.executor": "Run",
+    "Application.Runnable (1).executor": "Run",
+    "Application.Runnable (2).executor": "Run",
+    "Application.Runnable (3).executor": "Run",
+    "Application.Runnable.executor": "Run",
+    "Application.Runnable3 (1).executor": "Run",
+    "Application.Runnable3.executor": "Run",
+    "Application.Runnable63.executor": "Run",
+    "Application.Second.executor": "Run",
+    "Application.StaticvsPublic.executor": "Run",
+    "Application.StringConcatenation.executor": "Run",
+    "Application.StringUppercase.executor": "Run",
+    "Application.String_ArrayList.executor": "Run",
+    "Application.Stringindexof.executor": "Run",
+    "Application.Stringlength.executor": "Run",
+    "Application.SumMethod.executor": "Run",
+    "Application.Switch.executor": "Run",
+    "Application.Takeinput.executor": "Run",
+    "Application.Ternarypro.executor": "Run",
+    "Application.Whileloop.executor": "Run",
+    "Application.Widening_Casting.executor": "Run",
+    "Application.WriteToFile.executor": "Run",
+    "Application.arraywithindex.executor": "Run",
+    "Application.child (1).executor": "Run",
+    "Application.child.executor": "Run",
+    "Application.methodwithif_else.executor": "Run",
+    "Application.myclass.executor": "Run",
+    "Application.overridethe_values.executor": "Run",
+    "Application.paracons.executor": "Run",
+    "Application.paracons1.executor": "Run",
+    "Application.practiceprograms.JavaTryCatchException.Demo01.executor": "Run",
+    "Application.practiceprograms.JavaTryCatchException.Main.executor": "Run",
+    "Application.practiceprograms.Java_Iterator.Demo001.executor": "Run",
+    "Application.practiceprograms.Oops.Enum.EnumWithswitch.Runnable.executor": "Run",
+    "Application.practiceprograms.Oops.InnerClass.Main.executor": "Run",
+    "Application.practiceprograms.Oops.InnerClass.PrivateInnerClass.Main2.executor": "Run",
+    "Application.student (1).executor": "Run",
+    "Application.student (2).executor": "Run",
+    "Application.student (3).executor": "Run",
+    "Application.student.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "project.structure.last.edited": "SDKs",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.33333334",
+    "settings.editor.selected.configurable": "preferences.pluginManager"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Rohit\IdeaProjects\JavaPrograms\src\practiceprograms\Oops\Inheritance\Single_Inheritance" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="practiceprograms" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.DeleteFolder">
+    <configuration name="DeleteFile" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="practiceprograms.File_Handling.DeleteFile" />
+      <module name="JavaPrograms" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="practiceprograms.File_Handling.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DeleteFolder" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="practiceprograms.File_Handling.DeleteFolder" />
+      <module name="JavaPrograms" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="practiceprograms.File_Handling.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GetFileInfo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="practiceprograms.File_Handling.GetFileInfo" />
+      <module name="JavaPrograms" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="practiceprograms.File_Handling.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ReadFile" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="practiceprograms.File_Handling.ReadFile" />
+      <module name="JavaPrograms" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="practiceprograms.File_Handling.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="WriteToFile" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="practiceprograms.File_Handling.WriteToFile" />
+      <module name="JavaPrograms" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="practiceprograms.File_Handling.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.DeleteFolder" />
+        <item itemvalue="Application.DeleteFile" />
+        <item itemvalue="Application.GetFileInfo" />
+        <item itemvalue="Application.ReadFile" />
+        <item itemvalue="Application.WriteToFile" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="jdk-21.0.1-openjdk-21.0.1-249ae16d76d6-a618e4d4" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ec454ede-5171-48d3-8e10-e5bfdf3bbfcc" name="Changes" comment="" />
+      <created>1709733018842</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1709733018842</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/practiceprograms/Methods/Main2.java</url>
+          <line>7</line>
+          <properties class="practiceprograms.Methods.Main2" method="main">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/practiceprograms/Methods/Main2.java</url>
+          <line>3</line>
+          <properties class="practiceprograms.Methods.Main2" method="myMethod">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
