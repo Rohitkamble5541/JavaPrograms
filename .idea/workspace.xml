@@ -4,109 +4,29 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ec454ede-5171-48d3-8e10-e5bfdf3bbfcc" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_3_7_2024_10_17_AM_[Changes]/shelved.patch" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_3_7_2024_10_17_AM__Changes_.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/README file.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practiceprograms/Array/Arraywithforloop.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practiceprograms/Array/Foreachloop.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practiceprograms/Array/Multidimentional_array.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practiceprograms/Array/arraywithindex.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practiceprograms/ArrayList/IntegerArrayList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practiceprograms/ArrayList/String_ArrayList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practiceprograms/Basicpro/Mathclass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practiceprograms/Basicpro/StringConcatenation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practiceprograms/Basicpro/StringUppercase_Lowercase.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practiceprograms/Basicpro/Stringindexof.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practiceprograms/Basicpro/Stringlength.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practiceprograms/File_Handling/CreateFile.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practiceprograms/File_Handling/DeleteFile.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practiceprograms/File_Handling/DeleteFolder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practiceprograms/File_Handling/GetFileInfo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practiceprograms/File_Handling/ReadFile.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practiceprograms/File_Handling/WriteToFile.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practiceprograms/HashMap/Demo001.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practiceprograms/HashSet/Demo01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practiceprograms/Ifelsepro/Ifelseif.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practiceprograms/Ifelsepro/Maximumifelse.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practiceprograms/Ifelsepro/Switchstatments/Switch.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practiceprograms/Ifelsepro/Ternarypro.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practiceprograms/JavaTryCatchException/Demo01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practiceprograms/JavaTryCatchException/Demo02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practiceprograms/JavaTryCatchException/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practiceprograms/Java_Iterator/Demo001.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practiceprograms/LinkedList/Fruits.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practiceprograms/Loops/Breakstament.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practiceprograms/Loops/Breakwithwhile.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practiceprograms/Loops/Continuestatment.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practiceprograms/Loops/Continuewithdowhile.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practiceprograms/Loops/Continuewithwhile.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practiceprograms/Loops/Dowhileloop.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practiceprograms/Loops/Dowhilewithbreak.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practiceprograms/Loops/ForLoop.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practiceprograms/Loops/ForLoop2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practiceprograms/Loops/Foreachloop.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practiceprograms/Loops/NestedLoop.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practiceprograms/Loops/Whileloop.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practiceprograms/Methods/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practiceprograms/Methods/Main2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practiceprograms/Methods/Methodoverloading/MethodOverloading.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practiceprograms/Methods/Multiple_parameters.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practiceprograms/Methods/SumMethod.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practiceprograms/Methods/methodwithif_else.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practiceprograms/Oops/Abstraction/Animal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practiceprograms/Oops/AccessModifiers/Default_AccessModifiers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practiceprograms/Oops/AccessModifiers/Final_Keyword.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practiceprograms/Oops/AccessModifiers/Private_AccessModifiers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practiceprograms/Oops/AccessModifiers/Protect_modifiers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practiceprograms/Oops/AccessModifiers/Public_AccessModifiers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practiceprograms/Oops/AccessModifiers/Second.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practiceprograms/Oops/Classes_Objects_Attributes_Methods/Accessing_Attributes.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practiceprograms/Oops/Classes_Objects_Attributes_Methods/Cars.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practiceprograms/Oops/Classes_Objects_Attributes_Methods/Cars2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practiceprograms/Oops/Classes_Objects_Attributes_Methods/Carscalling.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practiceprograms/Oops/Classes_Objects_Attributes_Methods/Final_dontmodifyvalue.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practiceprograms/Oops/Classes_Objects_Attributes_Methods/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practiceprograms/Oops/Classes_Objects_Attributes_Methods/Main2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practiceprograms/Oops/Classes_Objects_Attributes_Methods/Modify_Attribute_values.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practiceprograms/Oops/Classes_Objects_Attributes_Methods/MultipleAttributes.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practiceprograms/Oops/Classes_Objects_Attributes_Methods/MultipleObjects.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practiceprograms/Oops/Classes_Objects_Attributes_Methods/Overridethe_values.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practiceprograms/Oops/Classes_Objects_Attributes_Methods/Second.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practiceprograms/Oops/Classes_Objects_Attributes_Methods/StaticvsPublic.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practiceprograms/Oops/Consturctors/Consturctorwithinitialvalues.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practiceprograms/Oops/Consturctors/paracons.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practiceprograms/Oops/Consturctors/paracons1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practiceprograms/Oops/Encapsulation/Login.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practiceprograms/Oops/Encapsulation/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practiceprograms/Oops/Encapsulation/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practiceprograms/Oops/Encapsulation/Personrunner.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practiceprograms/Oops/Enum/EnumClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practiceprograms/Oops/Enum/EnumWithswitch/Enumwithswitch.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practiceprograms/Oops/Enum/Enumwithforeachloop/Level5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practiceprograms/Oops/Enum/Level.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practiceprograms/Oops/Inheritance/Employees.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practiceprograms/Oops/Inheritance/Finalwithinheritance.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practiceprograms/Oops/Inheritance/Parent.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practiceprograms/Oops/Inheritance/Vehicle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practiceprograms/Oops/InnerClass/InnerClass/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practiceprograms/Oops/InnerClass/Innerclas2OuterClass/Main5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practiceprograms/Oops/InnerClass/PrivateInnerClass/Main2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practiceprograms/Oops/InnerClass/StaticInnerClass/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practiceprograms/Oops/Interface/MultipleInterface/Interface1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practiceprograms/Oops/Interface/Regular_Interface/Runnable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practiceprograms/Oops/JavaDate.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practiceprograms/Oops/JavaInput/Takeinput.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practiceprograms/Oops/Javapkgs_API/MyClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practiceprograms/Oops/Polymorphism/Animal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practiceprograms/Thread/Main3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practiceprograms/WrapperClass/Main.java" afterDir="false" />
+    <list default="true" id="ec454ede-5171-48d3-8e10-e5bfdf3bbfcc" name="Changes" comment="Initial commit for this project">
+      <change afterPath="$PROJECT_DIR$/src/practiceprograms/Array/Sumofarray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/practiceprograms/Basicpro/Addtwonumbers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/practiceprograms/Basicpro/Areaofrectangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/practiceprograms/Basicpro/CodingInterviewquestions/GradeCalculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/practiceprograms/Basicpro/CodingInterviewquestions/LeapYear.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/practiceprograms/Basicpro/CodingInterviewquestions/PalindromeString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/practiceprograms/Basicpro/CodingInterviewquestions/Palindromenumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/practiceprograms/Basicpro/CodingInterviewquestions/Printtable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/practiceprograms/Basicpro/CodingInterviewquestions/Takeinputformuser.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/practiceprograms/Basicpro/CodingInterviewquestions/Triangle_Classifier.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/practiceprograms/Basicpro/CodingInterviewquestions/fizzbuzzproblem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/practiceprograms/Basicpro/Evenandodd.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/practiceprograms/Basicpro/ReverseString/ReverStringtakeinputcharat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/practiceprograms/Basicpro/ReverseString/ReverseStringCharAt.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/practiceprograms/Basicpro/ReverseString/ReverseStringCharAt2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/practiceprograms/Basicpro/ReverseString/ReverseStringStringBuilder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/practiceprograms/Basicpro/ReverseString/ReverseStringTakeInputStringbuffer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/practiceprograms/Basicpro/ReverseString/ReverseStringTakeinputStringbuilder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/practiceprograms/Basicpro/ReverseString/ReverseString_Stringbuffer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/practiceprograms/Basicpro/Takeinputuser.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/practiceprograms/Basicpro/countString.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/practiceprograms/Hellopro.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/practiceprograms/Basicpro/Hellopro.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/practiceprograms/Narrowing_Casting.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/practiceprograms/Basicpro/Narrowing_Casting.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/practiceprograms/Print.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/practiceprograms/Basicpro/Print.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/practiceprograms/Printnumbers.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/practiceprograms/Basicpro/Printnumbers.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/practiceprograms/Widening_Casting.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/practiceprograms/Basicpro/Widening_Casting.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -123,6 +43,11 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MarkdownSettingsMigration">
@@ -147,6 +72,8 @@
     "ASKED_ADD_EXTERNAL_FILES": "true",
     "Application.AccessModifiers.executor": "Run",
     "Application.Accessing_Attributes.executor": "Run",
+    "Application.Addtwonumbers.executor": "Run",
+    "Application.Areaofrectangle.executor": "Run",
     "Application.Arraywithforloop.executor": "Run",
     "Application.Breakstament.executor": "Run",
     "Application.Breakwithwhile.executor": "Run",
@@ -167,6 +94,7 @@
     "Application.Dowhilewithbreak.executor": "Run",
     "Application.Empinfo.executor": "Run",
     "Application.EnumClass.executor": "Run",
+    "Application.Evenandodd.executor": "Run",
     "Application.Final_Keyword.executor": "Run",
     "Application.Final_dontmodifyvalue.executor": "Run",
     "Application.ForLoop.executor": "Run",
@@ -174,10 +102,12 @@
     "Application.Foreachloop.executor": "Run",
     "Application.Fruits.executor": "Run",
     "Application.GetFileInfo.executor": "Run",
+    "Application.GradeCalculator.executor": "Run",
     "Application.Hellopro.executor": "Run",
     "Application.Ifelseif.executor": "Run",
     "Application.IntegerArrayList.executor": "Run",
     "Application.JavaDate.executor": "Run",
+    "Application.LeapYear.executor": "Run",
     "Application.Main (1).executor": "Run",
     "Application.Main.executor": "Run",
     "Application.Main2 (1).executor": "Run",
@@ -200,11 +130,21 @@
     "Application.OuterClass.executor": "Run",
     "Application.OuterClass2 (1).executor": "Run",
     "Application.OuterClass2.executor": "Run",
+    "Application.PalindromeString.executor": "Run",
+    "Application.Palindromenumber.executor": "Run",
     "Application.Personrunner.executor": "Run",
     "Application.Print.executor": "Run",
     "Application.Printnumbers.executor": "Run",
+    "Application.Printtable.executor": "Run",
     "Application.Private_AccessModifiers.executor": "Run",
     "Application.ReadFile.executor": "Run",
+    "Application.ReverStringtakeinputcharat.executor": "Run",
+    "Application.ReverseString.executor": "Run",
+    "Application.ReverseStringCharAt.executor": "Debug",
+    "Application.ReverseStringCharAt2.executor": "Run",
+    "Application.ReverseStringTakeInputStringbuffer.executor": "Run",
+    "Application.ReverseStringTakeinputStringbuilder.executor": "Run",
+    "Application.ReverseString_Stringbuffer.executor": "Run",
     "Application.Runnable (1).executor": "Run",
     "Application.Runnable (2).executor": "Run",
     "Application.Runnable (3).executor": "Run",
@@ -220,8 +160,11 @@
     "Application.Stringindexof.executor": "Run",
     "Application.Stringlength.executor": "Run",
     "Application.SumMethod.executor": "Run",
+    "Application.Sumofarray.executor": "Run",
     "Application.Switch.executor": "Run",
     "Application.Takeinput.executor": "Run",
+    "Application.Takeinputformuser.executor": "Run",
+    "Application.Takeinputuser.executor": "Run",
     "Application.Ternarypro.executor": "Run",
     "Application.Whileloop.executor": "Run",
     "Application.Widening_Casting.executor": "Run",
@@ -229,6 +172,8 @@
     "Application.arraywithindex.executor": "Run",
     "Application.child (1).executor": "Run",
     "Application.child.executor": "Run",
+    "Application.countString.executor": "Run",
+    "Application.fizzbuzzproblem.executor": "Run",
     "Application.methodwithif_else.executor": "Run",
     "Application.myclass.executor": "Run",
     "Application.overridethe_values.executor": "Run",
@@ -247,8 +192,9 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "master",
+    "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/Rohit/IdeaProjects/JavaPrograms",
     "project.structure.last.edited": "SDKs",
     "project.structure.proportion": "0.0",
     "project.structure.side.proportion": "0.33333334",
@@ -263,13 +209,13 @@
       <recent name="practiceprograms" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.DeleteFolder">
-    <configuration name="DeleteFile" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="practiceprograms.File_Handling.DeleteFile" />
+  <component name="RunManager" selected="Application.LeapYear">
+    <configuration name="GradeCalculator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="practiceprograms.Basicpro.CodingInterviewquestions.GradeCalculator" />
       <module name="JavaPrograms" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="practiceprograms.File_Handling.*" />
+          <option name="PATTERN" value="practiceprograms.Basicpro.CodingInterviewquestions.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -277,12 +223,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DeleteFolder" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="practiceprograms.File_Handling.DeleteFolder" />
+    <configuration name="LeapYear" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="practiceprograms.Basicpro.CodingInterviewquestions.LeapYear" />
       <module name="JavaPrograms" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="practiceprograms.File_Handling.*" />
+          <option name="PATTERN" value="practiceprograms.Basicpro.CodingInterviewquestions.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -290,12 +236,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="GetFileInfo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="practiceprograms.File_Handling.GetFileInfo" />
+    <configuration name="PalindromeString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="practiceprograms.Basicpro.CodingInterviewquestions.PalindromeString" />
       <module name="JavaPrograms" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="practiceprograms.File_Handling.*" />
+          <option name="PATTERN" value="practiceprograms.Basicpro.CodingInterviewquestions.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -303,12 +249,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ReadFile" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="practiceprograms.File_Handling.ReadFile" />
+    <configuration name="Palindromenumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="practiceprograms.Basicpro.CodingInterviewquestions.Palindromenumber" />
       <module name="JavaPrograms" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="practiceprograms.File_Handling.*" />
+          <option name="PATTERN" value="practiceprograms.Basicpro.CodingInterviewquestions.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -316,12 +262,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="WriteToFile" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="practiceprograms.File_Handling.WriteToFile" />
+    <configuration name="fizzbuzzproblem" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="practiceprograms.Basicpro.CodingInterviewquestions.fizzbuzzproblem" />
       <module name="JavaPrograms" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="practiceprograms.File_Handling.*" />
+          <option name="PATTERN" value="practiceprograms.Basicpro.CodingInterviewquestions.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -331,11 +277,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.DeleteFolder" />
-        <item itemvalue="Application.DeleteFile" />
-        <item itemvalue="Application.GetFileInfo" />
-        <item itemvalue="Application.ReadFile" />
-        <item itemvalue="Application.WriteToFile" />
+        <item itemvalue="Application.LeapYear" />
+        <item itemvalue="Application.GradeCalculator" />
+        <item itemvalue="Application.Palindromenumber" />
+        <item itemvalue="Application.PalindromeString" />
+        <item itemvalue="Application.fizzbuzzproblem" />
       </list>
     </recent_temporary>
   </component>
@@ -355,10 +301,33 @@
       <option name="presentableId" value="Default" />
       <updated>1709733018842</updated>
     </task>
+    <task id="LOCAL-00001" summary="Initial commit for this project">
+      <option name="closed" value="true" />
+      <created>1710228953798</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1710228953798</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="Initial commit" />
+    <MESSAGE value="Initial commit for this project" />
+    <option name="LAST_COMMIT_MESSAGE" value="Initial commit for this project" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -380,6 +349,26 @@
             <option name="WATCH_EXIT" value="false" />
           </properties>
           <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/practiceprograms/Basicpro/ReverseString/ReverseStringCharAt.java</url>
+          <line>10</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/practiceprograms/Basicpro/ReverseString/ReverseStringCharAt.java</url>
+          <line>16</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/practiceprograms/Basicpro/ReverseString/ReverseStringCharAt.java</url>
+          <line>7</line>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/practiceprograms/Basicpro/ReverseString/ReverseStringCharAt.java</url>
+          <line>6</line>
+          <option name="timeStamp" value="10" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
